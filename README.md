@@ -1,4 +1,4 @@
-# springboot-security-3.0
+# springboot-security-3.1
 
 Earlier we have WebSecurityConfigureAdaptor to override the below methods :
 
